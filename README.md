@@ -24,7 +24,11 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Database using: MySql
+
+## Importante
+
+Configure las variables de entorno del archivo ".env.sample" para las credenciales se la BD a utilizar y luego convirtalo a ".env" para su funcionaminto ✌
 
 ## Installation
 
