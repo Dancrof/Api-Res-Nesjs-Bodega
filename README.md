@@ -26,7 +26,7 @@
 
 - Inspirado en - [https://github.com/ruslanguns/nestjs-myblog](https://github.com/ruslanguns/nestjs-myblog)
 
-Database using: MySql
+- Database using: MySql
 
 ## Importante
 
