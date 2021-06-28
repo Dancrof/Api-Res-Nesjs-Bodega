@@ -28,7 +28,9 @@ Database using: MySql
 
 ## Importante
 
-Configure las variables de entorno del archivo ".env.sample" para las credenciales se la BD a utilizar y luego convirtalo a ".env" para su funcionaminto ✌
+*Configure las variables de entorno del archivo ".env.sample" para las credenciales se la BD a utilizar y luego convirtalo a ".env" para su funcionaminto.
+
+*Tambien se genera una User Admin por defecto, al  arrancar el servidor por primera ves, si quieres config tu propio user edita las variables de entorno del archivo antes mencionado ".env.sample"
 
 ## Installation
 
