@@ -30,9 +30,11 @@
 
 ## Importante
 
-*Configure las variables de entorno del archivo ".env.sample" para las credenciales se la BD a utilizar y luego convirtalo a ".env" para su funcionaminto.
+*Configure las variables de entorno del archivo ".env.sample" para las credenciales se la BD a utilizar y luego cree dos archivos ".env.development" y ".env.production" con sus credenciales para su funcionaminto.
 
 *Tambien se genera una User Admin por defecto, al  arrancar el servidor por primera ves, si quieres config tu propio user edita las variables de entorno del archivo antes mencionado ".env.sample"
+
+- Nota: Cave recalcar que el archivo “.env.sample” es solo un ejemplo, con credenciales ficticias, por lo que los dos archivos antes mencionado, no se subirán al repositorio , a exepcion del “.env.sample”.
 
 ## Installation
 
