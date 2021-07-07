@@ -1,5 +1,8 @@
 #credencial BD
-.env
+.env*
+ormconfig.json
+# -.- = +
+!.env.sample
 # compiled output
 /dist
 /node_modules

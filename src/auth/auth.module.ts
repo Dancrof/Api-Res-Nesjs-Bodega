@@ -6,7 +6,7 @@ import { UserModule } from 'src/user/user.module';
 import { LocalStrategy } from './strategies/local.strategy';
 import { JwtModule } from '@nestjs/jwt';
 import { ConfigService } from '@nestjs/config';
-import { JWT_SECRET } from 'config/constant';
+import { JWT_SECRET } from 'src/config/constant';
 import { JwtStrategy } from './strategies/jwt-strategy';
 
 

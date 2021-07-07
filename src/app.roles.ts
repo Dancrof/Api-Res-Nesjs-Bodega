@@ -24,6 +24,7 @@ roles
     //ADMIN ROLES
     .grant(AppRoles.ADMIN)
     .extend(AppRoles.AUTHOR)
+    .readAny([AppResources.USER])
     .createAny([AppResources.USER])
     .updateAny([AppResources.USER, AppResources.PRODUCT])
     .deleteAny([AppResources.USER, AppResources.PRODUCT])

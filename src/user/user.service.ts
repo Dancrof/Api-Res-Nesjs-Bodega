@@ -31,8 +31,8 @@ export class UserService {
     return hidePassword;
   }
 
-  async findAll(): Promise<User[]> {
-    const users = await this.userRepository.find();
+  async findAll(userEntity?: User): Promise<User[]> {
+    const users = await this.userRepository.find(userEntity);
     return users;
   }
 
