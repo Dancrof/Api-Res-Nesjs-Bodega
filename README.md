@@ -28,6 +28,8 @@
 
 - Database using: MySql
 
+- Documentacion: http://midominio.com/api (ej: http://localhost:3000/api)
+
 ## Importante
 
 *Configure las variables de entorno del archivo ".env.sample" para las credenciales se la BD a utilizar y luego convirtalo a ".env" para su funcionaminto.
